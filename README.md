@@ -1,0 +1,1 @@
+# LaunchPalette-App-Switcher-for-Mac
